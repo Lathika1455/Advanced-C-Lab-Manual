@@ -40,7 +40,6 @@ Output:
 
 ![image](https://github.com/user-attachments/assets/38ea20cb-a9af-4ab5-8267-f2f6f4e79f9a)
 
-
 Result:
 Thus, the program is verified successfully. 
 
@@ -63,7 +62,6 @@ Program:
 
 ```
 #include<stdio.h> 
-
 struct numbers
 {
 int a; 
@@ -172,7 +170,6 @@ fputs(text,p);
 }
 printf("\nData added Successfully");
 }
-
 ```
 
 Output:
