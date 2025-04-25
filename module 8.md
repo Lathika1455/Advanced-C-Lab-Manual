@@ -205,7 +205,8 @@ return 0;
 ```
 Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b3495e61-f443-422a-8dee-bffc0793c080)
+
 
 
 Result:
@@ -290,6 +291,8 @@ void square(){
 }
 ```
 Output:
+
+![image](https://github.com/user-attachments/assets/46ceec37-313e-453c-84e3-90c3b21467a6)
 
 
 Result:
